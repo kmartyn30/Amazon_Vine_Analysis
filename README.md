@@ -4,7 +4,10 @@
 
   
   RESULTS:
-  There were ____ many Vine reviews and non-Vine reviews provided**_______.
+  
+  ![2022-11-16 15 02 23](https://user-images.githubusercontent.com/107796290/202282834-e020e5f7-ad92-47aa-8ea5-1b466940d01e.png)
+
+  There were 0 Vine reviews and non-Vine reviews provided 355 reviews. As you can see the the vine_count=paid_vine_reviews did not draw any attention. However, the other count unpaid vine reviews implicated activity. 
   
   The Vine reviews that were 5-star were _____________. The non-Vine reviews were 5-stars _____________.
   
