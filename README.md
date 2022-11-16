@@ -14,6 +14,6 @@
   The percentage of view reviews were 5 stars were 0 percent. The percentage of non-Vine reviews were 5 star were 25.35% of reviews.
   
   
-  In summary the there seem to be only a one sided bias towards non-Vine reviews. Also this was non-Vine unpaid reviews. 
+  In summary the there seem to be only a one sided bias towards non-Vine reviews. Also this was non-Vine unpaid reviews which was other members: reviews: 355, 5-star ratings:90(25.35%).
   
   
