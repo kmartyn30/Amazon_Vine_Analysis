@@ -25,4 +25,7 @@ As you can
   
   In summary the there seem to be only a one sided bias towards non-Vine reviews. Also this was non-Vine unpaid reviews which was other members: reviews: 355, 5-star ratings:90(25.35%).
   
+  The connection with AWS instance was conntected and created a URL for the connection. It was labeled a free acount however I was charges for an additional RDS and so I had to close the account and remove the RDS.
   
+  ![2022-11-16 16 17 37](https://user-images.githubusercontent.com/107796290/202296429-384adc46-f49c-433e-a2b9-932758ac7d6a.png)
+
